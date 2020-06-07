@@ -1,8 +1,8 @@
 [package]
 name = "warp_ws_server"
 version = "0.1.0"
-authors = ["johnnyk"]
-edition = "2018"
+authors = ["ThePianoDentist"]
+edition = "2020"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
